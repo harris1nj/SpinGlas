@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="no_help_available">
+      There is no help available at this time.
+    </string>
+    <string name="about_help_topics">
+      Help is available for each section of this app.
+    </string>
+
+    <string name="help_page_intro">The object of the game is to place more spins than your competitor.</string>
+    <string name="help_page_intro_html">
+    <![CDATA[
+      The object of the game is to place more spins than your competitor.
+       ]]>
+    </string>
+
+    <string name="help_title_section1">Description of the Game</string>
+    <string name="help_text_section1">
+     The game consists of spins and bonds. Sites are the yellow circles where a white or black spin can be placed.
+     Links are the yellow lines between the sites. Red and blue bonds can be placed on the links.
+    </string>
+
+    <string name="help_title_section2">Game Rules</string>
+    <string name="help_text_section2">
+     The game is played with two players. One player selects to be white and the other player selects to be black.
+     The white player starts the game. A player can make three moves during their turn. They can place a spin on a
+     unoccupied site or place a bond on an unoccupied link. Any combination (up to three) of spins or bonds is
+     allowed. The player can flip spins to their color anytime during their turn. Flipping a spin is only allowed
+     when the energy of the spin is zero or higher. The player\'s turn is finished when they place the third spin
+     or bond.
+    </string>
+
+    <string name="help_title_section3">Finishing the Game</string>
+    <string name="help_text_section3">
+     The game is finished when all of the sites have spins and all of the links have bonds assigned to them.
+     The player with the most spins wins.
+    </string>
+
+</resources>

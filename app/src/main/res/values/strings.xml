@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpinGlas</string>
+   	<string name="site_circle"> Site Circle </string>
+    <string name="link_rect">Link Rectangle</string>
+    <string name="score_text">XXX-XXX</string>
+    <string name="bond_pool">32</string>
+    <string name="white_score">0</string>
+    <string name="black_score">0</string>
+    <string name="white_name">White</string>
+    <string name="black_name">Black</string>
+    <string name="Help">Help</string>
+    <string name="About">About</string>
+</resources>

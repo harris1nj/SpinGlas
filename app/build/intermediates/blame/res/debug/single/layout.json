@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\harris1nj\\Downloads\\AndroidstudioProjects\\SpinGlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "C:\\Users\\harris1nj\\Downloads\\AndroidstudioProjects\\SpinGlas\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\harris1nj\\Downloads\\AndroidstudioProjects\\SpinGlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\harris1nj\\Downloads\\AndroidstudioProjects\\SpinGlas\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\harris1nj\\Downloads\\AndroidstudioProjects\\SpinGlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_backup.xml",
+        "source": "C:\\Users\\harris1nj\\Downloads\\AndroidstudioProjects\\SpinGlas\\app\\src\\main\\res\\layout\\main_backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\harris1nj\\Downloads\\AndroidstudioProjects\\SpinGlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\harris1nj\\Downloads\\AndroidstudioProjects\\SpinGlas\\app\\src\\main\\res\\layout\\about.xml"
+    }
+]

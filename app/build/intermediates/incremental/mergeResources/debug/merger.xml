@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res"><file name="link" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable\link.xml" qualifiers="" type="drawable"/><file name="site_shape" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable\site_shape.xml" qualifiers="" type="drawable"/><file name="spinglas_bkgnd1" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable\spinglas_bkgnd1.png" qualifiers="" type="drawable"/><file name="spinglas_bkgnd2" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable\spinglas_bkgnd2.png" qualifiers="" type="drawable"/><file name="spinglas_bkgnd3" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable\spinglas_bkgnd3.png" qualifiers="" type="drawable"/><file name="spinglas_bkgnd4" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable\spinglas_bkgnd4.png" qualifiers="" type="drawable"/><file name="spinglas_bkgnd5" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable\spinglas_bkgnd5.png" qualifiers="" type="drawable"/><file name="evo_revo_incr_default" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\evo_revo_incr_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="evo_revo_incr_pressed" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\evo_revo_incr_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="evo_revo_incr_selected" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\evo_revo_incr_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="help_image1" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\help_image1.xml" qualifiers="hdpi-v4" type="drawable"/><file name="help_image2" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\help_image2.xml" qualifiers="hdpi-v4" type="drawable"/><file name="help_image3" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\help_image3.xml" qualifiers="hdpi-v4" type="drawable"/><file name="help_image4" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\help_image4.xml" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="light_bulb_default" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\light_bulb_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="light_bulb_pressed" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\light_bulb_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="light_bulb_selected" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\light_bulb_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="rel_map_default" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\rel_map_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="rel_map_pressed" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\rel_map_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="rel_map_selected" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\rel_map_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinglasicon" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\spinglasicon.png" qualifiers="hdpi-v4" type="drawable"/><file name="venn_2_default" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\venn_2_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="venn_2_pressed" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\venn_2_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="venn_2_selected" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-hdpi\venn_2_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-ldpi\icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\drawable-mdpi\icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="about" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\layout\about.xml" qualifiers="" type="layout"/><file name="help" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\layout\help.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="main_backup" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\layout\main_backup.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\values\about_strings.xml" qualifiers=""><string name="about_page_intro">About SpinGlas</string><string name="no_about_available">
+      There is no help available at this time.
+    </string><string name="about_title_section2">Open Source License Information</string><string name="about_title_section1">SpinGlas - Android - Version 0.1</string><string name="about_text_section2_html">
+    <![CDATA[
+        <p><b>Help Text Layout</b></p>
+
+        <p>Copyright (C) 2012 Wglxy.com</p>
+
+        <p>Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at</p>
+
+       <p> http://www.apache.org/licenses/LICENSE-2.0</p>
+
+       <p>Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.</p>
+        ]]>
+    </string><string name="about_text_section2">Copyright</string><string name="about_page_intro_html">
+    <![CDATA[
+ Version 0.1\n
+ Copyright (C) 2014 Haddondroyd, Inc.
+
+       ]]>
+    </string><string name="about_about_topics">
+      Help is available for each section of this app.
+    </string><string name="about_text_section1">
+        Based on the SpinGlas game developed by Alexander K. Hartmann at the University of Oldenburg, Oldenburg, Germany.
+    </string></file><file path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\values\colors.xml" qualifiers=""><color name="light_foreground1">#ffeeeeee</color><color name="dark_foreground1">#ff000000</color><color name="light_background">#ffffffff</color><color name="foreground1">#ff000000</color><color name="dark_background">#ff000000</color></file><file path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="link_padding">5dp</dimen><dimen name="text_size_large">22sp</dimen><dimen name="link_image_width">30dp</dimen><dimen name="text_size_medium">16sp</dimen><dimen name="padding">2dp</dimen><dimen name="site_image_width">50dp</dimen><dimen name="text_size_small">12sp</dimen><dimen name="site_image_height">50dp</dimen><dimen name="title_height">45dip</dimen><dimen name="link_image_height">60dp</dimen><dimen name="site_row_1">10dp</dimen><dimen name="site_row_2">60dp</dimen><dimen name="site_row_3">60dp</dimen><dimen name="site_row_4">60dp</dimen></file><file path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\values\help_strings.xml" qualifiers=""><string name="help_title_section2">Game Rules</string><string name="help_title_section3">Finishing the Game</string><string name="about_help_topics">
+      Help is available for each section of this app.
+    </string><string name="no_help_available">
+      There is no help available at this time.
+    </string><string name="help_title_section1">Description of the Game</string><string name="help_text_section1">
+     The game consists of spins and bonds. Sites are the yellow circles where a white or black spin can be placed.
+     Links are the yellow lines between the sites. Red and blue bonds can be placed on the links.
+    </string><string name="help_text_section2">
+     The game is played with two players. One player selects to be white and the other player selects to be black.
+     The white player starts the game. A player can make three moves during their turn. They can place a spin on a
+     unoccupied site or place a bond on an unoccupied link. Any combination (up to three) of spins or bonds is
+     allowed. The player can flip spins to their color anytime during their turn. Flipping a spin is only allowed
+     when the energy of the spin is zero or higher. The player\'s turn is finished when they place the third spin
+     or bond.
+    </string><string name="help_text_section3">
+     The game is finished when all of the sites have spins and all of the links have bonds assigned to them.
+     The player with the most spins wins.
+    </string><string name="help_page_intro_html">
+    <![CDATA[
+      The object of the game is to place more spins than your competitor.
+       ]]>
+    </string><string name="help_page_intro">The object of the game is to place more spins than your competitor.</string></file><file path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\values\strings.xml" qualifiers=""><string name="white_name">White</string><string name="About">About</string><string name="score_text">XXX-XXX</string><string name="site_circle"> Site Circle </string><string name="bond_pool">32</string><string name="app_name">SpinGlas</string><string name="Help">Help</string><string name="black_score">0</string><string name="white_score">0</string><string name="link_rect">Link Rectangle</string><string name="black_name">Black</string></file><file path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\main\res\values\styles.xml" qualifiers=""><style name="HelpButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/light_foreground1</item>
+        <item name="android:background">@null</item>
+    </style><style name="HelpButton.Dark">
+        <item name="android:textColor">@color/dark_foreground1</item>
+    </style><style name="Theme" parent="android:Theme"/></file></source><source path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\build\generated\res\rs\debug"/><source path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\jharris\AndroidstudioProjects\SpinGlas\app\src\debug\res"/></dataSet><mergedItems/></merger>

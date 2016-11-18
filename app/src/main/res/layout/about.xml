@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2014 Haddondroyd, Inc.
+
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/light_background"
+    android:orientation="vertical" >
+
+    <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+    </FrameLayout>
+    <ScrollView android:id="@+id/AboutScrollView"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:padding="6dip"
+    >
+    <TextView  
+        android:id="@+id/about_page_intro"
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content" 
+        android:text="@string/about_page_intro"
+        android:textStyle="bold"
+        android:padding="2dip"
+        android:layout_weight="1"
+           />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="4dip">
+        <TextView  
+           android:layout_width="wrap_content" 
+           android:layout_height="wrap_content" 
+           android:text="@string/about_text_section1"
+        android:padding="8dip"
+        android:layout_weight="1"
+           />
+     </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="4dip">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/about_title_section2"
+                android:textStyle="bold"
+                android:padding="8dip"
+                android:layout_weight="1"
+                />
+    </LinearLayout>
+    <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="4dip">
+        <TextView
+                android:id="@+id/about_text_section2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/about_text_section2_html"
+                android:padding="8dip"
+                android:layout_weight="1"
+                />
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>
+
+</LinearLayout>

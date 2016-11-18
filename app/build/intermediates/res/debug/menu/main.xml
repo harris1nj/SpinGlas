@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/Help"
+        android:title="@string/Help"/>
+    <item
+        android:id="@+id/About"
+        android:title="@string/About"/>
+</menu>
+<!-- From: file:/C:/Users/jharris/AndroidstudioProjects/SpinGlas/app/src/main/res/menu/main.xml -->

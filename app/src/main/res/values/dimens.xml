@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="site_image_width">50dp</dimen>
+    <dimen name="site_image_height">50dp</dimen>
+    <dimen name="link_image_height">60dp</dimen>
+    <dimen name="link_image_width">30dp</dimen>
+    <dimen name="site_row_1">10dp</dimen>
+    <dimen name="site_row_2">60dp</dimen>
+    <dimen name="site_row_3">60dp</dimen>
+    <dimen name="site_row_4">60dp</dimen>
+    <dimen name="padding">2dp</dimen>
+    <dimen name="link_padding">5dp</dimen>
+    <dimen name="title_height">45dip</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+</resources>
